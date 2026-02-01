@@ -1,6 +1,6 @@
 ## Oi, eu sou a Iane!
 
-### Estatística & Modelagem de Dados | Graduanda na UFES
+### Estatística e Ciência de Dados | Graduanda pela UFES
 
 Estudante de Estatística com foco em **Ciência de Dados e Pesquisa Operacional**. Atualmente, atuo no setor industrial desenvolvendo modelos preditivos e explicativos, unindo rigor estatístico e programação para a resolução de problemas complexos. 
 
