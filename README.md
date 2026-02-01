@@ -16,12 +16,7 @@ Tenho formação prévia em Letras pela UFV e foi por meio de uma Iniciação Ci
 ## Stack Técnica
 - **Linguagens:** Python (Pandas, Polars, Scikit-learn, Plotly), R e SQL.
 - **Estatística & Matemática:** Modelos Lineares e Não Lineares, Probabilidade, Pesquisa Operacional e Otimização.
-- **Domínio:** EDA avançada, Feature Engineering para Séries Temporais e Modelagem de Machine Learning.
-
-## Projetos em Destaque
-- **Modelagem Industrial:** Desenvolvimento de modelos preditivos e explicativos para equipamentos industriais, lidando com desafios de lags temporais e lacunas de dados.
-- **Análise de Fake News:** Projeto de iniciação científica onde utilizei Python para identificar padrões em desinformação.
-- **Clusterização no DaSLab:** Aplicação de algoritmos de agrupamento em R para descoberta de padrões em bases de dados complexas.
+- **Domínio:** EDA avançada, Feature Engineering para Séries Temporais e Modelagem.
 
 ---
 
